@@ -2,7 +2,7 @@
 
 Files for the knife are located in /3D-Files, if you couldn't guess.
 
-There are open and closed files for your viewing pleasure, and a plain file meant to 3D print.
+There are open and closed files for your viewing pleasure, and a plain file meant to 3D print. Only print the file called Butterfly-Print.stl.
 
 You can actually view .STL files in GitHub via the browser! Crazy stuff!
 
